@@ -88,7 +88,7 @@ footer{
     transition:.5s;
 }
 .fa-instagram:hover {
-    color: #d0107e;
+    color: #9010d0ab;
     -o-transition:.5s;
     -ms-transition:.5s;
     -moz-transition:.5s;
@@ -104,7 +104,7 @@ footer{
     transition:.5s;
 }
 .fa-linkedin:hover {
-    color: green;
+    color: rgb(4, 26, 84);
     -o-transition:.5s;
     -ms-transition:.5s;
     -moz-transition:.5s;
@@ -129,7 +129,7 @@ footer{
 }
 
 .image-parent {
-    max-width: 200px;
+    max-width: 210px;
   }
 label{
     color: bisque;
@@ -137,7 +137,7 @@ label{
 
 .circular_image {
     width: 200px;
-    height: 200px;
+    height: 250px;
     border-radius: 50%;
     overflow: hidden;
     /* commented for demo
